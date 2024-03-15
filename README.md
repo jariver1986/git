@@ -1,6 +1,6 @@
 # git
 
-- Descargar git
+- Descargar git: https://git-scm.com/download/win
 - Crear carpeta
 - Clic derecho dentro de la carpeta
 - Abrir git bash
